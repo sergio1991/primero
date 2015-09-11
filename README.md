@@ -1,2 +1,4 @@
 # primero
-primer publicación
+primer publicación en GITHUB
+
+Yo amo la :music: y :dance:
